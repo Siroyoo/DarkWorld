@@ -1,0 +1,11 @@
+resume
+
+자격증 : 없음
+
+대외활동 : 없음
+
+사용기술 : jQuery, React.js, javaScript, HTML, CSS
+
+이름 : 29 (만 27)
+나이 : 유 성민
+학력 : 전
